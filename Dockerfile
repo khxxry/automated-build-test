@@ -1,2 +1,2 @@
-FROM dockersmaples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="KH"
